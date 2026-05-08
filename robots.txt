@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jannismilz.github.io/docs-s6l1q8/sitemap.xml
